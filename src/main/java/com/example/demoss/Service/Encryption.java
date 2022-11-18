@@ -14,6 +14,7 @@ public class Encryption {
     String countryCode = "KE";
 
      ObjectMapper obj =  new ObjectMapper();
+//     Oject mapper
 
      Request request = new Request("52uu66ybvduuurvhgs", "25478199911", "jjokocha",
              "allan.checkout.io", 450, "KES", "SERDEV8099",
