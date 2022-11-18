@@ -17,8 +17,8 @@ public class Encryption {
 //     Oject mapper
 
      Request request = new Request("52uu66ybvduuurvhgs", "25478199911", "jjokocha",
-             "allan.checkout.io", 450, "KES", "SERDEV8099",
-             "2022-11-17 17:00:56", "Jordanb Shoes", "KE","en",
+             "allan@checkout.io", 450, "KES", "SERDEV8099",
+             "2022-11-17 17:00:56", "Dell Laptop", "KE","en",
              "https://www.google.com/", "https://www.google.com/","https://www.google.com/",
              "https://www.google.com/");
 
